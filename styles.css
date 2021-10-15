@@ -39,7 +39,6 @@ a:hover {
 .nav {
   display: flex;
   justify-content: space-around;
-  font-weight: 70;
   list-style-type: none;
   margin: 0 auto;
   padding: 0;
@@ -88,7 +87,6 @@ header {
 
 #exp-header h1{
   line-height: 50px;
-  font-weight: 500px;
   color: yellow;
   font-size: 60px;
   font-family: 'Anonymous Pro', monospace;
@@ -105,7 +103,6 @@ header .profile-image {
   height: 150px;
   border-radius: 10%;
   border: 3px solid yellow;
-  transition: width 7s height 5s ease;
 }
 header .profile-image:hover {
   transform: scale(1.2);
