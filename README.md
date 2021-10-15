@@ -1,2 +1,2 @@
 # Project-1
- Project-1: Create a Profile Page
+ Create a Profile
